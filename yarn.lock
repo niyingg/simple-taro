@@ -8414,10 +8414,17 @@ loose-envify@^1.1.0, loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-lottiecomp@^1.0.8-fix.npm.3:
-  version "1.0.8-fix.npm.3"
-  resolved "https://registry.npmjs.org/lottiecomp/-/lottiecomp-1.0.8-fix.npm.3.tgz#806f9b8b9caab665f7056ba716813f06893ce07c"
-  integrity sha512-sAUizZQZb5knwV8k64yC079n0G2TTvQrjI/0jxFI1ayEMq4sjwf3kSFeIW9PWO6yLCVY7gHVyA3qAXvwYFh4Yw==
+lottie-miniprogram@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.npmjs.org/lottie-miniprogram/-/lottie-miniprogram-1.0.12.tgz#637a315c6a3df2e908012fb2771ab47a342ca55e"
+  integrity sha512-2ITtXAyeDXbftvYYe5w0ayl8jTV8laylWMCdJofpka1q205NkjRNj7kX+iIZZ/YjKh1f8plWxb9gSFHkC7BLUQ==
+
+lottiecomp@^1.0.8-fix.npm.5:
+  version "1.0.8-fix.npm.5"
+  resolved "https://registry.npmjs.org/lottiecomp/-/lottiecomp-1.0.8-fix.npm.5.tgz#a349a96877dae0c1c0ae88ccc49974ed3eaeed6f"
+  integrity sha512-grJToSkxyuqcPSG5vz0UinY2/mUb26xLaB+hhiZ3iwIybwaZKRlfYCIcvWleWWQoRZ89hvFUY2wvF4jJmEVjpw==
+  dependencies:
+    lottie-miniprogram "^1.0.12"
 
 lower-case@^1.1.1:
   version "1.1.4"

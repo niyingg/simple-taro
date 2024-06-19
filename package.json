@@ -55,7 +55,7 @@
     "@tarojs/runtime": "3.6.32",
     "@tarojs/shared": "3.6.32",
     "@tarojs/taro": "3.6.32",
-    "lottiecomp": "^1.0.8-fix.npm.3",
+    "lottiecomp": "^1.0.8-fix.npm.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
